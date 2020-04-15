@@ -14,3 +14,13 @@ The data for this project has been obtained using pandas_datareader from Yahoo F
 
 In this project python and its modules such as pandas, numpy, matplotlib, pandas-datareader, etc have been used. Monte Carlo method has been used to determine the value at risk for the stocks of these banks.
 
+
+### Conclusion
+
+The stock market data for four Canadian banks has been investigated and analyzed. The risk for investing as well as future value at risk has been determined. All banks have relatively similar results.
+
+
+### Author
+
+
+This project has been inspired by many other similar projects and has been performed by Kaveh Amini (kvhmni@gmail.com).
