@@ -2,12 +2,16 @@
 
 ### Introduction
 
-In this project, Stock Market Analysis and Prediction will be performed for Four Canadian Banks, using data provided by Yahoo Finance. Pandas is used to get stock information, visualize different aspects of it, and finally perform risk analysis on the basis of its performance history. Also using the Monte Carlo method the future stock prices are pridicted.
+In this project, Stock Market Analysis and Prediction will be performed for Four Canadian Banks, using data provided by Yahoo Finance. Pandas is used to get stock information, visualize different aspects of it, and finally perform risk analysis on the basis of its performance history. Also using the Monte Carlo method the future stock prices are predicted.
 
 
 ### The Data
 
+<<<<<<< HEAD
 The data for this project has been obtained using pandas_datareader from Yahoo Finance. The symbols for four canadian banks namely The Toronto-Dominion Bank (TD), Royal Bank of Canada (RY), Bank of Montreal (BMO) and the Bank of Nova Scotia (BNS) were used and the data were obtained. 
+=======
+The data for this project has been obtained using pandas_datareader from Yahoo Finance. The symbols for four Canadian bank namely The Toronto-Dominion Bank (TD), Royal Bank of Canada (RY), Bank of Montreal (BMO) and the Bank of Nova Scotia (BNS) were used and the data were obtained. 
+>>>>>>> 1158f7965d87421bb7d09cdc8b8f07c194f59867
  
 
 ### Tools Used
