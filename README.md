@@ -7,7 +7,7 @@ In this project, Stock Market Analysis and Prediction will be performed for Four
 
 ### The Data
 
-The data for this project has been obtained using pandas_datareader from Yahoo Finance. The symbols for four canadian bank namely The Toronto-Dominion Bank (TD), Royal Bank of Canada (RY), Bank of Montreal (BMO) and the Bank of Nova Scotia (BNS) were used and the data were obtained. 
+The data for this project has been obtained using pandas_datareader from Yahoo Finance. The symbols for four canadian banks namely The Toronto-Dominion Bank (TD), Royal Bank of Canada (RY), Bank of Montreal (BMO) and the Bank of Nova Scotia (BNS) were used and the data were obtained. 
  
 
 ### Tools Used
