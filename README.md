@@ -56,7 +56,7 @@ Risk assessment for the stocks of all banks show similar risk for all of them.
 
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/19.png">
 
-
+Value at Risk for the TD, which looks to be $3.29 for every investment of 56.30 (The price of one initial TD Stock).
 
 ### Conclusion
 
