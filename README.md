@@ -30,6 +30,10 @@ In the figure below different moving averages for TD stock data have been illust
 
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/3.png">
 
+Also different Exponential Moving Averages for TD stock data have been shown in the figure below. Exponential Moving Averages react faster to the changes in the stock market.
+
+<img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/4.png">
+
 ### Conclusion
 
 The stock market data for four Canadian banks has been investigated and analyzed. The risk for investing as well as future value at risk has been determined. All banks have relatively similar results.
