@@ -46,6 +46,10 @@ The heatmap below shows the correlation coeeficients between the closing prices 
 
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/12.png">
 
+Risk assessment for the stocks of all banks show similar risk for all of them.
+
+<img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/13.png">
+
 
 
 
