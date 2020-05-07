@@ -19,7 +19,7 @@ In this project python and its modules such as pandas, numpy, matplotlib, pandas
 Here the visualization results for TD stocks will be illustrated. For the complete visualizations and results of analysis please see the jupyte notebook.
 
 Plotting the closing price during past year for TD stock data shows a drop in the closing price in March 2020 due to the COVID-19 pandemic.
-<img src="http://localhost:8888/view/1.png">
+<img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/1.png">
 
 
 
