@@ -34,6 +34,12 @@ Also different Exponential Moving Averages for TD stock data have been shown in 
 
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/4.png">
 
+Plotting the daily return percentage for TD stock data shows that the daily return fluctuated during the pandemic.
+
+<img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/5.png">
+
+
+
 ### Conclusion
 
 The stock market data for four Canadian banks has been investigated and analyzed. The risk for investing as well as future value at risk has been determined. All banks have relatively similar results.
