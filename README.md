@@ -38,6 +38,10 @@ Plotting the daily return percentage for TD stock data shows that the daily retu
 
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/5.png">
 
+Plotting the data for all four banks indicates that the data for all these banks are fairly correlated.
+
+<img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/8.png">
+
 
 
 ### Conclusion
