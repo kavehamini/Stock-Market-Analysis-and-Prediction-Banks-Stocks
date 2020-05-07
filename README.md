@@ -26,8 +26,9 @@ Plotting the total volume of stock being traded each day over the past year for 
 
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/2.png">
 
+In the figure below different moving averages for TD stock data have been illustrated.
 
-
+<img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/3.png">
 
 ### Conclusion
 
