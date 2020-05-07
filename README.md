@@ -14,6 +14,14 @@ The data for this project has been obtained using pandas_datareader from Yahoo F
 
 In this project python and its modules such as pandas, numpy, matplotlib, pandas-datareader, etc have been used. Monte Carlo method has been used to determine the value at risk for the stocks of these banks.
 
+### Data Analysis and Visualization
+
+Here the visualization results for TD stocks will be illustrated. For the complete visualizations and results of analysis please see the jupyte notebook.
+
+Plotting the closing price during past year for TD stock data shows a drop in the closing price in March 2020 due to the COVID-19 pandemic.
+<img src="http://localhost:8888/view/1.png">
+
+
 
 ### Conclusion
 
