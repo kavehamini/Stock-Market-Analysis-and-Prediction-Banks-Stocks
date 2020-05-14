@@ -19,42 +19,53 @@ In this project python and its modules such as pandas, numpy, matplotlib, pandas
 Here the visualization results for TD stocks will be illustrated. For the complete visualizations and results of analysis please see the jupyte notebook.
 
 Plotting the closing price during past year for TD stock data shows a drop in the closing price in March 2020 due to the COVID-19 pandemic.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/1.png">
+</p>
 
 Plotting the total volume of stock being traded each day over the past year for TD stock data shows that the volumne traded during the COVID-19 pandemic has also increased.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/2.png">
+</p>
 
 In the figure below different moving averages for TD stock data have been illustrated.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/3.png">
+</p>
 
 Also different Exponential Moving Averages for TD stock data have been shown in the figure below. Exponential Moving Averages react faster to the changes in the stock market.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/4.png">
+</p>
 
 Plotting the daily return percentage for TD stock data shows that the daily return fluctuated during the pandemic.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/5.png">
+</p>
 
 Plotting the closing prices for all four banks indicates that the closing prices for all these banks are fairly correlated.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/8.png">
+</p>
 
 The heatmap below shows the correlation coeeficients between the closing prices of different bank stocks.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/12.png">
+</p>
 
 Risk assessment for the stocks of all banks show similar risk for all of them.
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/13.png">
+</p>
 
 #### Monte Carlo analysis of TD bank stocks:
-
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/15.png">
+</p>
 
+<p align="center">
 <img src="https://github.com/kavehamini/Stock-Market-Analysis-and-Prediction-Banks-Stocks/blob/master/19.png">
+</p>
 
 Value at Risk for the TD, which looks to be $3.29 for every investment of 56.30 (The price of one initial TD Stock).
 
